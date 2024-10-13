@@ -1,6 +1,6 @@
 ## ChaosNet - A Partial Equalibrium Simulation on World Trade Data
 
-To explore ChaosNet, we simulate a global trade environment taking a [Partial Equalibrium](https://en.wikipedia.org/wiki/Partial_equilibrium) approach and conjoining it with a [Knowledge Graph](https://en.wikipedia.org/wiki/Knowledge_graph) to expose global trade relations.
+To explore [ChaosNet](https://chaosnet.world/), we simulate a global trade environment taking a [Partial Equalibrium](https://en.wikipedia.org/wiki/Partial_equilibrium) approach and conjoining it with a [Knowledge Graph](https://en.wikipedia.org/wiki/Knowledge_graph) to expose global trade relations.
 
 ChaosNet invokes a simulated environment where Nodes in the network represent Countries, Industries and the relations between them. This includes tariffs, world trade policies, export and import policies, and more. Through simulating a change in any of these factors, we can generate an expected probability of what ripple effects may occur at a global economic scale.
 
